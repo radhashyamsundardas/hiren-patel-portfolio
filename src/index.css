@@ -1,8 +1,14 @@
 
 body{
   background-image: url('https://t4.ftcdn.net/jpg/01/66/63/45/360_F_166634519_clNap8GGhEKsHKNxvgpNncpBFcc2fen7.jpg') ;
-  background-repeat: no-repeat;
-  background-size: cover;
+}
+.nav>li {
+  display: inline-block;
+}
+
+h1{
+
+  
 }
 
 
