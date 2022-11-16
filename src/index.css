@@ -1,4 +1,22 @@
-body {
+
+body{
+  background-image: url('https://t4.ftcdn.net/jpg/01/66/63/45/360_F_166634519_clNap8GGhEKsHKNxvgpNncpBFcc2fen7.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
@@ -10,4 +28,4 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
-}
+} */
