@@ -3,17 +3,26 @@ body{
   background-image: url('https://trbahadurpur.com/wp-content/uploads/2021/01/background-11.jpg') ;
   background-repeat: no-repeat;
   background-size: cover;
-  height: ;
 }
 h1{
   /* background-color: red; */
   text-align: center;
   padding: 5px;
 }
-#nb{
-  background-color: red;
+
+
+section{
+  text-align: center;
 }
 
+ img {
+  
+  padding: 10px;
+  
+}
+footer{
+  text-align: center;
+}
 
 
 

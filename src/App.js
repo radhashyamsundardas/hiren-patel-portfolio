@@ -8,9 +8,9 @@ function App() {
   return (
     <div> 
       {/* <Header/> */}
-      {/* <Footer/> */}
       <Navbar/>
       <Aboutme/>
+      <Footer/>
     </div>
   );
 }

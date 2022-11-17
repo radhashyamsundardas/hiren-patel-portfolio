@@ -10,7 +10,7 @@ return (
         <navbar class="nb" expand="lg" bg="light" sticky="top">
             <NavLink className='nav-link' to="/">
                 <div class="text-dark">
-                    {/* <h1>Hiren Patel's Portfolio</h1> */}
+                    <h1>Hiren Patel's Portfolio</h1>
                 </div>
             </NavLink>
             <ul class="navbar-nav ml-auto navitem-indent">

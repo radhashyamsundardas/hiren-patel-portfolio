@@ -27,7 +27,7 @@ export default function aboutme() {
 
             <p><h4>
 
-                Strong Knowledge of Management, Web development, Marketing, and Market trends.<br/>
+                Strong Knowledge of Business, Management, Web development, Marketing, and Market trends.<br/>
                 Proven leader when it comes to lead projects from the concept through the release process.
             </h4></p>
 
