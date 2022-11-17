@@ -2,6 +2,7 @@ import React from 'react';
 import Header from './components/header';
 import Footer from './components/footer';
 import Navbar from './components/navbar'
+import Aboutme from './components/aboutme'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
       {/* <Header/> */}
       {/* <Footer/> */}
       <Navbar/>
+      <Aboutme/>
     </div>
   );
 }

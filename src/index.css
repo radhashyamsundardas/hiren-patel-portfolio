@@ -1,14 +1,17 @@
 
 body{
-  background-image: url('https://t4.ftcdn.net/jpg/01/66/63/45/360_F_166634519_clNap8GGhEKsHKNxvgpNncpBFcc2fen7.jpg') ;
+  background-image: url('https://trbahadurpur.com/wp-content/uploads/2021/01/background-11.jpg') ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: ;
 }
-.nav>li {
-  display: inline-block;
-}
-
 h1{
-
-  
+  /* background-color: red; */
+  text-align: center;
+  padding: 5px;
+}
+#nb{
+  background-color: red;
 }
 
 
