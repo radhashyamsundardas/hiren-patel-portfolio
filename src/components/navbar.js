@@ -6,42 +6,42 @@ import { NavLink } from 'react-bootstrap';
 export default function navbar (){
 return (
 
-    <div>
-        <navbar class="nb" expand="lg" bg="light" sticky="top">
+    <div id="nb">
+        <navbar  expand="lg" bg="light" sticky="top">
             <NavLink className='nav-link' to="/">
-                <div class="text-dark">
+                <div>
                     <h1>Hiren Patel's Portfolio</h1>
                 </div>
             </NavLink>
             <ul class="navbar-nav ml-auto navitem-indent">
                 <li class="nav-item">
                     <NavLink to="/aboutme">
-                        <div class="nav-font text-dark">
-                            About Me
+                        <div >
+                            <h2>About Me</h2>
                         </div>
                     </NavLink>
                 </li>
 
                 <li class="nav-item">
                     <NavLink to="/portfolio">
-                        <div class="nav-font text-dark">
-                            Portfolio
+                        <div >
+                            <h2>Portfolio</h2>
                         </div>
                     </NavLink>
                 </li>
 
                 <li class="nav-item">
                     <NavLink to="/Contact">
-                        <div class="nav-font text-dark">
-                            Contact Me
+                        <div >
+                            <h2>Contact Me</h2>
                         </div>
                     </NavLink>
                 </li>
 
                 <li class="nav-item">
                     <NavLink to="/resume">
-                        <div class="nav-font text-dark">
-                            Resume
+                        <div >
+                            <h2>Resume</h2>
                         </div>
                     </NavLink>
                 </li>
