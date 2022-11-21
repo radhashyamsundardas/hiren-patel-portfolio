@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd88cc79.css",
-    "main.js": "/static/js/main.5f4959be.js",
-    "static/js/787.30237536.chunk.js": "/static/js/787.30237536.chunk.js",
-    "index.html": "/index.html",
-    "main.dd88cc79.css.map": "/static/css/main.dd88cc79.css.map",
-    "main.5f4959be.js.map": "/static/js/main.5f4959be.js.map",
-    "787.30237536.chunk.js.map": "/static/js/787.30237536.chunk.js.map"
+    "main.css": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.4a43667f.css",
+    "main.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.282c68d9.js",
+    "static/js/787.30237536.chunk.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js",
+    "index.html": "/radhashyamsundardas/hiren-patel-portfolio/index.html",
+    "main.4a43667f.css.map": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.4a43667f.css.map",
+    "main.282c68d9.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.282c68d9.js.map",
+    "787.30237536.chunk.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd88cc79.css",
-    "static/js/main.5f4959be.js"
+    "static/css/main.4a43667f.css",
+    "static/js/main.282c68d9.js"
   ]
 }

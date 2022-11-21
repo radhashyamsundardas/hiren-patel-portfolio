@@ -9,7 +9,7 @@ export default function aboutme() {
             <hr></hr>
 
             <div>
-                <img src='' alt='Hiren Patel'></img> 
+               <a><img src='' alt='Hiren Patel'></img> </a> 
             </div>
 
 
