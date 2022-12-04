@@ -13,9 +13,9 @@ return (
             </Link>
             <ul class="Navbar-nav ml-auto navitem-indent">
             <li class="nav-item">
-                    <Link to="/Main">
+                    <Link to="/Home">
                         <div >
-                            <h2>main</h2>
+                            <h2>Home</h2>
                         </div>
                     </Link>
                 </li>
