@@ -1,54 +1,59 @@
 import React from 'react';
-import { NavLink } from 'react-bootstrap';
-// import { Navbar } from 'react-bootstrap';
-// import {Navlink} from  'react-router-dom';
+import {Link} from  'react-router-dom';
 
-export default function navbar (){
+export default function Navbar (){
 return (
 
     <div id="nb">
-        <navbar  expand="lg" bg="light" sticky="top">
-            <NavLink className='nav-link' to="/">
+        <Navbar  expand="lg" bg="light" sticky="top">
+            <Link className='nav-link' to="/">
                 <div>
                     <h1>Hiren Patel's Portfolio</h1>
                 </div>
-            </NavLink>
-            <ul class="navbar-nav ml-auto navitem-indent">
+            </Link>
+            <ul class="Navbar-nav ml-auto navitem-indent">
+            <li class="nav-item">
+                    <Link to="/Main">
+                        <div >
+                            <h2>main</h2>
+                        </div>
+                    </Link>
+                </li>
                 <li class="nav-item">
-                    <NavLink to="/aboutme">
+                    <Link to="/Aboutme">
                         <div >
                             <h2>About Me</h2>
                         </div>
-                    </NavLink>
+                    </Link>
                 </li>
 
                 <li class="nav-item">
-                    <NavLink to="/portfolio">
+                    <Link to="/portfolio">
                         <div >
                             <h2>Portfolio</h2>
                         </div>
-                    </NavLink>
+                    </Link>
                 </li>
 
                 <li class="nav-item">
-                    <NavLink to="/Contact">
+                    <Link to="/Contact">
                         <div >
                             <h2>Contact Me</h2>
                         </div>
-                    </NavLink>
+                    </Link>
                 </li>
 
                 <li class="nav-item">
-                    <NavLink to="/resume">
+                    <Link to="/resume">
                         <div >
                             <h2>Resume</h2>
                         </div>
-                    </NavLink>
+                    </Link>
                 </li>
             </ul>
 
 
-        </navbar>
+        </Navbar>
     </div>
 
     

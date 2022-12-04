@@ -1,11 +1,9 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
-import Header from './components/header';
-import Footer from './components/footer';
-import Navbar from './components/navbar';
-import Aboutme from './components/aboutme';
-import Portfolio from './components/portfolio'
+import Footer from './components/Footer';
+import Navbar from './components/Navbar';
+import Main from './components/main';
 
 
 
@@ -16,13 +14,15 @@ import Portfolio from './components/portfolio'
 
 function App() {
   return (
+    <Router>
+      <Navbar/>      
+    
+      <Routes>
+      <Route path="/" element={<Main />}></Route>
 
-    <div> 
-      <Navbar/>
-      <Aboutme/>
+      </Routes>
       <Footer/>
-      <Portfolio/>
-    </div>
+    </Router>
   );
     
 }

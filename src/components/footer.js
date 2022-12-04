@@ -1,8 +1,9 @@
 import React from 'react';
 
-export default function footer (){
+export default function Footer (){
     return (
-        <footer className='footer-bg-light fixed-bottom'>
+        <Footer className='Footer-bg-light fixed-bottom'>
+            
             <a 
             href='https://github.com/radhashyamsundardas'> 
             <img src='https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo.png' alt='Github' style={{height:100}}/>
@@ -24,7 +25,7 @@ export default function footer (){
                 <img src='https://storage.googleapis.com/wzukusers/user-18209628/images/5c083c846ba38dG1mXw6/namaste-hand-drawn-vector-20399758.jpg' alt='Namaste' style={{height:75}}/>
             <h3>from Hiren Patel</h3>
             </div> 
-        </footer>
+        </Footer>
     )
 }
             
