@@ -1,9 +1,8 @@
-import React from 'react';
+import React from 'react'
 
-export default function Footer (){
-    return (
-        <Footer className='Footer-bg-light fixed-bottom'>
-            
+function Footer() {
+  return (
+    <footer className='Footer-bg-light fixed-bottom'>
             <a 
             href='https://github.com/radhashyamsundardas'> 
             <img src='https://www.oomnitza.com/wp-content/uploads/2022/06/github-logo.png' alt='Github' style={{height:100}}/>
@@ -11,7 +10,7 @@ export default function Footer (){
 
             <a 
             href='https://www.linkedin.com/in/radhashyamsundar-das-036a2b251/'> 
-            <img src='https://www.clipartmax.com/png/middle/304-3041366_linkedin-logotype-button-free-icon-linkedin-logo-b-w.png' alt='Github' style={{height:100}} />
+            <img src='https://www.clipartmax.com/png/middle/304-3041366_linkedin-logotype-button-free-icon-linkedin-logo-b-w.png' alt='linkedin' style={{height:100}} />
             </a>
 
             <a 
@@ -23,18 +22,11 @@ export default function Footer (){
 
             <div>
                 <img src='https://storage.googleapis.com/wzukusers/user-18209628/images/5c083c846ba38dG1mXw6/namaste-hand-drawn-vector-20399758.jpg' alt='Namaste' style={{height:75}}/>
-            <h3>from Hiren Patel</h3>
-            </div> 
-        </Footer>
-    )
+                <h3>from Hiren Patel</h3>
+            </div>
+            
+    </footer>
+  )
 }
-            
-            
 
-
-
-    
-    
-    
-
-
+export default Footer

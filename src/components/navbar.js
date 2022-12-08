@@ -1,64 +1,52 @@
-import React from 'react';
-import {Link} from  'react-router-dom';
+import React from 'react'
+import {Link} from 'react-router-dom'
 
-export default function Navbar (){
-return (
-
-    <div id="nb">
-        <Navbar  expand="lg" bg="light" sticky="top">
-            <Link className='nav-link' to="/">
-                <div>
-                    <h1>Hiren Patel's Portfolio</h1>
-                </div>
-            </Link>
-            <ul class="Navbar-nav ml-auto navitem-indent">
-            <li class="nav-item">
-                    <Link to="/Home">
+function Navbar() {
+  return (
+    <div>
+       <h1> HIREN PATEL</h1>
+       <ul class="Navbar-nav ml-auto navitem-indent">
+       <li class="nav-item">
+                    <Link to="/">
                         <div >
-                            <h2>Home</h2>
+                            <img src='https://www.clipartmax.com/png/small/14-142308_home-icon-png-orange.png' alt='home page' height={30}/>
+
                         </div>
                     </Link>
                 </li>
-                <li class="nav-item">
+            <li class="nav-item">
                     <Link to="/Aboutme">
                         <div >
                             <h2>About Me</h2>
                         </div>
                     </Link>
                 </li>
-
                 <li class="nav-item">
-                    <Link to="/portfolio">
+                    <Link to="/Portfolio">
                         <div >
                             <h2>Portfolio</h2>
                         </div>
                     </Link>
                 </li>
-
                 <li class="nav-item">
-                    <Link to="/Contact">
+                    <Link to="/Contactme">
                         <div >
                             <h2>Contact Me</h2>
                         </div>
                     </Link>
                 </li>
-
                 <li class="nav-item">
-                    <Link to="/resume">
+                    <Link to="/Resume">
                         <div >
                             <h2>Resume</h2>
                         </div>
                     </Link>
                 </li>
-            </ul>
-
-
-        </Navbar>
+       </ul>
     </div>
-
-    
-
-)
-
+  )
 }
+       
+      
 
+export default Navbar
