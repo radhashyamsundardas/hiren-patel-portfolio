@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.007ccffe.css",
-    "main.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.8a81380d.js",
+    "main.css": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.99bc87f1.css",
+    "main.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.a15096b3.js",
     "static/js/787.30237536.chunk.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js",
     "index.html": "/radhashyamsundardas/hiren-patel-portfolio/index.html",
-    "main.007ccffe.css.map": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.007ccffe.css.map",
-    "main.8a81380d.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.8a81380d.js.map",
+    "main.99bc87f1.css.map": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.99bc87f1.css.map",
+    "main.a15096b3.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.a15096b3.js.map",
     "787.30237536.chunk.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.007ccffe.css",
-    "static/js/main.8a81380d.js"
+    "static/css/main.99bc87f1.css",
+    "static/js/main.a15096b3.js"
   ]
 }
