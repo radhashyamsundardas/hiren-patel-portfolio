@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Footer() {
+function Foooter() {
   return (
     <footer className='Footer-bg-light fixed-bottom'>
             <a 
@@ -29,4 +29,4 @@ function Footer() {
   )
 }
 
-export default Footer
+export default Foooter
