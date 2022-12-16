@@ -1,7 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom'
 
-function Navbar() {
+function Navibar() {
   return (
     <div>
        <h1> HIREN PATEL</h1>
@@ -49,4 +49,4 @@ function Navbar() {
        
       
 
-export default Navbar
+export default Navibar
