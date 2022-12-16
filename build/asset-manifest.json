@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.99bc87f1.css",
-    "main.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.a15096b3.js",
-    "static/js/787.30237536.chunk.js": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js",
-    "index.html": "/radhashyamsundardas/hiren-patel-portfolio/index.html",
-    "main.99bc87f1.css.map": "/radhashyamsundardas/hiren-patel-portfolio/static/css/main.99bc87f1.css.map",
-    "main.a15096b3.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/main.a15096b3.js.map",
-    "787.30237536.chunk.js.map": "/radhashyamsundardas/hiren-patel-portfolio/static/js/787.30237536.chunk.js.map"
+    "main.css": "/radhashyamsundardas/hiren-portfolio/static/css/main.99bc87f1.css",
+    "main.js": "/radhashyamsundardas/hiren-portfolio/static/js/main.626ea38b.js",
+    "static/js/787.07718324.chunk.js": "/radhashyamsundardas/hiren-portfolio/static/js/787.07718324.chunk.js",
+    "index.html": "/radhashyamsundardas/hiren-portfolio/index.html",
+    "main.99bc87f1.css.map": "/radhashyamsundardas/hiren-portfolio/static/css/main.99bc87f1.css.map",
+    "main.626ea38b.js.map": "/radhashyamsundardas/hiren-portfolio/static/js/main.626ea38b.js.map",
+    "787.07718324.chunk.js.map": "/radhashyamsundardas/hiren-portfolio/static/js/787.07718324.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99bc87f1.css",
-    "static/js/main.a15096b3.js"
+    "static/js/main.626ea38b.js"
   ]
 }
